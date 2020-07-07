@@ -1,0 +1,12 @@
+package com.pawel.mielen.twitter;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TwitterSocialNetworkApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(TwitterSocialNetworkApplication.class, args);
+    }
+}
