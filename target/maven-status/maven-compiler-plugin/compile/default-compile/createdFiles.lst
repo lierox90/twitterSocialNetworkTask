@@ -1,9 +1,0 @@
-com\pawel\mielen\twitter\user\UserRepository.class
-com\pawel\mielen\twitter\follow\FollowingService.class
-com\pawel\mielen\twitter\comment\Comment.class
-com\pawel\mielen\twitter\comment\CommentsService.class
-com\pawel\mielen\twitter\TwitterSocialNetworkApplication.class
-com\pawel\mielen\twitter\user\UserService.class
-com\pawel\mielen\twitter\user\User.class
-com\pawel\mielen\twitter\comment\CommentsController.class
-com\pawel\mielen\twitter\follow\FollowingController.class
